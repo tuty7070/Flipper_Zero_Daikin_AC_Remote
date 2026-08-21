@@ -1,0 +1,12 @@
+App(
+    appid="daikin_remote",
+    name="Daikin AC Remote",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="daikin_remote_app",
+    stack_size=2 * 1024,
+    fap_category="Infrared",
+    fap_version="1.0",
+    fap_description="Custom Daikin AC remote - builds and sends full-state IR frames live",
+    fap_author="tuty7070 and Claude",
+    fap_icon="icon.png"
+)
