@@ -2,7 +2,7 @@
 
 This is a custom application I built primarily with the help of AI, while designing all the visuals myself. It was a fantastic learning opportunity and a really fun project to put together.
 
-The app includes a selection of features—focusing specifically on the buttons and tools I use the most on a daily basis.
+The app includes a selection of features, focusing specifically on the buttons and tools I use the most on a daily basis.
 
 ---
 
