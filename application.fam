@@ -7,6 +7,7 @@ App(
     fap_category="Infrared",
     fap_version="1.0",
     fap_description="Custom Daikin AC remote - builds and sends full-state IR frames live",
-    fap_author="tuty7070 and Claude",
-    fap_icon="icon.png"
+    fap_author="Built with Claude",
+    fap_icon="icon.png",
+    fap_icon_assets="icons",
 )
